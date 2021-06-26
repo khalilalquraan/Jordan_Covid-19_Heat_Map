@@ -9,6 +9,10 @@ Jordan Covid-19 Heat Map is my graduation project,the idea of my project is a ma
 
 [Google Map Platform](https://developers.google.com/maps) we are use google map api for draw map and put heat spot on the map  
 
+## Home Page 
+
+![](app/webroot/img/home.jpeg)
+
 # CakePHP
 
 [![Latest Stable Version](https://poser.pugx.org/cakephp/cakephp/v/stable.svg)](https://packagist.org/packages/cakephp/cakephp)
