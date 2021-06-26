@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendors/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendors/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendors/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/vendors/composer" />
+      <path value="$PROJECT_DIR$/vendors/cakephp/cakephp-codesniffer" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.3.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vendors/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
