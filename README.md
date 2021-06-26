@@ -4,7 +4,9 @@ Jordan Covid-19 Heat Map is my graduation project,the idea of my project is a ma
 ## Technology Used
 
 [Cakephp](https://cakephp.org) is a PHP framework  we used Cakephp 2.0
+
 [LocationIQ API](https://locationiq.com) we are use Geocoding api for get information about location
+
 [Google Map Platform](https://developers.google.com/maps) we are use google map api for draw map and put heat spot on the map  
 
 # CakePHP
