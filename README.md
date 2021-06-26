@@ -1,3 +1,12 @@
+# Jordan Covid-19 Heat Map
+Jordan Covid-19 Heat Map is my graduation project,the idea of my project is a map to show covid-19 cases in Jordan on a heat map to help people to know where are covid-19 cases locate and how to deal with them.
+
+## Technology Used
+
+[Cakephp](https://cakephp.org) is a PHP framework  we used Cakephp 2.0
+[LocationIQ API](https://locationiq.com) we are use Geocoding api for get information about location
+[Google Map Platform](https://developers.google.com/maps) we are use google map api for draw map and put heat spot on the map  
+
 # CakePHP
 
 [![Latest Stable Version](https://poser.pugx.org/cakephp/cakephp/v/stable.svg)](https://packagist.org/packages/cakephp/cakephp)
@@ -7,6 +16,7 @@
 
 CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC.
 Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
+
 
 
 ## Some Handy Links
